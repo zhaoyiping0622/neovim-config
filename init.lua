@@ -1,0 +1,5 @@
+require 'preload'
+require 'settings'
+require 'plugin-config'
+require 'plugins'
+require 'mappings'
