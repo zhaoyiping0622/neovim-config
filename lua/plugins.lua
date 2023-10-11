@@ -35,5 +35,7 @@ return require('packer').startup(function(use)
 
   use { "folke/which-key.nvim" }
 
+  use { "lewis6991/gitsigns.nvim" }
+
 
 end)
