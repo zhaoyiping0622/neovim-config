@@ -1,3 +1,3 @@
 local lspconfig = require('lspconfig')
-local default = require('plugin-config/lsp/default')
+local default = require('plugins/lsp/default')
 lspconfig['gopls'].setup(default)

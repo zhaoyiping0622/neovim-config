@@ -1,0 +1,5 @@
+require 'plugins/gruvbox'
+require 'plugins/telescope'
+require 'plugins/nvim-cmp'
+require 'plugins/lsp'
+require 'plugins/which-key'
